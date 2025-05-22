@@ -1,0 +1,16 @@
+Ciudad1 Ciudad2 tiempoNormal tiempoLluvia tiempoNieve tiempoTormenta
+Seoul Manila 13 19 24 35
+Seoul Bangkok 9 17 15 39
+KualaLumpur Taipei 9 17 20 44
+Seoul Hanoi 10 20 20 36
+Jakarta Singapore 7 11 22 25
+Tokyo KualaLumpur 8 17 26 31
+Tokyo Taipei 12 17 18 41
+Bangkok Taipei 7 14 23 18
+Bangkok Hanoi 9 10 27 34
+Seoul Jakarta 20 28 36 58
+Jakarta Manila 18 22 24 50
+Tokyo Manila 19 26 35 48
+Beijing Taipei 12 15 19 43
+Bangkok Jakarta 8 14 16 37
+Tokyo Seoul 7 14 12 24
